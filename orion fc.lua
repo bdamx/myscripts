@@ -1,5 +1,5 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Window = OrionLib:MakeWindow({Name = "anti british hub", HidePremium = true, SaveConfig = false, ConfigFolder = "OrionTest"})
+local Window = OrionLib:MakeWindow({Name = "anti british hub (RIGHT CTRL TO HIDE)", HidePremium = true, SaveConfig = false, ConfigFolder = "OrionTest"})
 
 
 -- functions
